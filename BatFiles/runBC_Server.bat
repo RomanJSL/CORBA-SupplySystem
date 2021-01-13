@@ -1,0 +1,1 @@
+java BC_Server -ORBInitialHost localhost -ORBInitialPort 1234
